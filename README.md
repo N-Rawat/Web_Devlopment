@@ -7,4 +7,4 @@ Basic HTML and CSS
 ![alt text](https://github.com/N-Rawat/Web_Devlopment/blob/master/Screenshot%20(46).png)
 
 #### Output for Google Search front page
-![alt text]()
+![alt text](https://github.com/N-Rawat/Web_Devlopment/blob/master/Screenshot%20(44).png)
